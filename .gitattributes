@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.csv -text
+*.pkl binary
+*.gz binary
+*.npz binary
+*.png binary

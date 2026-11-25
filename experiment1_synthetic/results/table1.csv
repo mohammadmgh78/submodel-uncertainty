@@ -1,0 +1,4 @@
+Scenario,Coverage (%),Avg. CI width,90% half-width
+No epistemic uncertainty,61.0,20.45558103205247,1.400803956474999
+Input uncertainty only,82.0,36.7320327068726,3.521598901695296
+Submodel uncertainty,87.0,39.4934396741447,3.681491393991132
